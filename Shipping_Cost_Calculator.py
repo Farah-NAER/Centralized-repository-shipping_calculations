@@ -1,6 +1,4 @@
-# Here is a new update by Farah NAER
-# Here is another update by Farah NAER
-
+ # Here is a new update by Farah NAER
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
